@@ -16,3 +16,13 @@ def ccc():
 
 def zzzzz():
     print("sdfgdsfgdsgdsgsdfg")
+def main():
+    ...
+
+def ohio():
+    print("hi")
+
+
+def fffff():
+    print("fffffff")
+
