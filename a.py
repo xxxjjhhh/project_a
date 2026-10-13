@@ -28,3 +28,6 @@ def fffff():
 
 def wwwwwww():
     print("wwwwwwww")
+
+def asdfsfasfsadfadsf():
+    print("sdfgsdfgdsgd")
