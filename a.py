@@ -6,3 +6,7 @@ def dancing():
 
 def aaa():
     print("sadfasdf")
+
+
+def ccc():
+    print("zsdfsdfdfdfdf")
