@@ -26,3 +26,5 @@ def ohio():
 def fffff():
     print("fffffff")
 
+def wwwwwww():
+    print("wwwwwwww")
