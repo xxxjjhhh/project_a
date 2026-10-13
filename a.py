@@ -6,3 +6,8 @@ def dancing():
 
 def aaa():
     print("sadfasdf")
+
+
+
+def bbb():
+    print("asdfasdfsfsfsdfsdf")
