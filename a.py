@@ -22,3 +22,7 @@ def main():
 def ohio():
     print("hi")
 
+
+def fffff():
+    print("fffffff")
+
